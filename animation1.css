@@ -11,8 +11,8 @@ body {
 	left:50%;
 	margin: -150px;
 	animation-name: animation;
-	animation-duration: infinite;
-	animation-iteration-count: 3;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
 	
 }
 @keyframes animation {
